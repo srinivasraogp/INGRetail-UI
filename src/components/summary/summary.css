@@ -1,0 +1,36 @@
+.bu{
+    margin-left:1400px;
+    background-color: #ff6200;
+    color:white;
+}
+.sum{
+    margin-left:550px;
+}
+.tab{
+    color:black;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight:bold;
+}
+.tf{
+    margin-right:1000px;
+}
+.bor{
+    margin-top:50px;
+    border: 5px solid #ff6200;
+}
+.kyc{
+    background-color: white;
+    color:#ff6200;
+    margin-left:1200px;
+    padding:10px;
+}
+.reset{
+    background-color: white;
+    color:#ff6200;
+    
+}
+.hr{
+    margin-top:10px;
+    font-weight:bold
+}
